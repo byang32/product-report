@@ -1,0 +1,56 @@
+/* 
+    Document   : prodRep_sp2010
+    Created on : Jan 21, 2010, 9:35:42 AM
+    Author     : jcooley
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    background-color: #cccc99;
+    color: #660000;
+    font-family: Algerian, 'Tekton Pro', Verdana;
+}
+
+.myForm {
+    text-align: center;
+}
+
+div.ieCenter {
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-width: 3px;
+    border-style: ridge;
+    width: 900px;
+}
+
+td {
+    background-color: black;
+    font-size: 0.8em;
+    padding: 5px;
+    text-align: center;
+}
+
+td.diff {
+    background-color: beige;
+    color: #660000;
+    font-family: Trebuchet-MS, Verdana;
+    text-align: left;
+}
+
+span#greeting {
+    color:#660000;
+}
